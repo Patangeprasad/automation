@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-02T23:48:18 IST" name="Default suite" finished-at="2022-11-02T23:48:46 IST" duration-ms="27975">
+    <groups>
+    </groups>
+    <test started-at="2022-11-02T23:48:18 IST" name="Default test" finished-at="2022-11-02T23:48:46 IST" duration-ms="27975">
+      <class name="TestNG.dataprovider">
+        <test-method signature="demo(java.lang.String,java.lang.String)[pri:0, instance:TestNG.dataprovider@22e357dc]" started-at="2022-11-02T23:48:18 IST" name="demo" data-provider="getData" finished-at="2022-11-02T23:48:29 IST" duration-ms="10692" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shankar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mercury]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo(java.lang.String,java.lang.String)[pri:0, instance:TestNG.dataprovider@22e357dc]" started-at="2022-11-02T23:48:29 IST" name="demo" data-provider="getData" finished-at="2022-11-02T23:48:38 IST" duration-ms="8772" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[john]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mercury]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo(java.lang.String,java.lang.String)[pri:0, instance:TestNG.dataprovider@22e357dc]" started-at="2022-11-02T23:48:38 IST" name="demo" data-provider="getData" finished-at="2022-11-02T23:48:46 IST" duration-ms="8429" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gopi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mercury]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- TestNG.dataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
